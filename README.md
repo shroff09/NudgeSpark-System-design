@@ -2,6 +2,25 @@
 
 NudgeSpark is a mobile application designed to foster playful and spontaneous connections between couples. It offers personalized content, an element of surprise, and a variety of features to enhance relationship engagement. The app is targeted at long-distance couples, busy couples, and relationship enthusiasts.
 
+## Directory Structure
+
+- [Architecture Overview](./architecture/overview.md)
+- [Architecture Components](./architecture/components.md)
+- [Database Schema](./database/schema.md)
+- [Entity-Relationship Diagram](./database/er-diagram.png)
+- [SQL Queries](./database/queries/)
+  - [Create Tables](./database/queries/create-tables.sql)
+  - [Sample Queries](./database/queries/sample-queries.sql)
+- [API Overview](./api/overview.md)
+- [API Endpoints](./api/endpoints.md)
+- [API Swagger File](./api/swagger.yaml)
+- [Security Overview](./security/overview.md)
+- [Security Best Practices](./security/best-practices.md)
+
+## High-Level Architecture Diagram
+
+![High-Level Architecture](./architecture/diagrams/high-level-architecture.png)
+
 ## Main Features
 
 - **Theme-based Nudges**: Personalized suggestions to engage with your partner based on themes.
