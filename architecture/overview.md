@@ -1,4 +1,4 @@
-- [<= Back](../overview.md)  ## System Architecture
+[Back to Main Overview](../README.md)  ## System Architecture
 
 The NudgeSpark system is designed using a modular architecture that includes the following key components:
 
