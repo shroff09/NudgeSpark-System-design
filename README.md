@@ -25,11 +25,11 @@ NudgeSpark is a mobile application designed to foster playful and spontaneous co
 
 - **Frontend**: React Native, TypeScript
 - **Backend**: FeathersJS, Node.js
-- **Database**: PostgreSQL
-- **Authentication**: Google Sign-In
+- **Database**: MongoDB
+- **Authentication**: Google Sign-In 
 - **Real-time Communication**: Custom WebSocket server
-- **Hosting**: [Specify your hosting platform, e.g., AWS, Heroku, etc.]
-- **Notifications**: Push notifications services (e.g., Firebase Cloud Messaging)
+- **Hosting**: [Cloudflare]
+- **Notifications**: Push notifications service (Firebase Cloud Messaging)
 
 ## Directory Structure
 
